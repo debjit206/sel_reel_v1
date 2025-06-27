@@ -27,8 +27,8 @@ A robust Instagram reel scraper using Selenium WebDriver and Google Sheets integ
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
-   cd <repo-directory>
+   git clone gh repo clone debjit206/sel_reel_v1
+   cd sel_reel_v1
    ```
 
 2. **Install dependencies:**
