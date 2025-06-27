@@ -1,0 +1,18 @@
+{
+  "name": "instagram-mobile-scraper",
+  "version": "1.0.0",
+  "description": "Instagram Mobile Scraper using Selenium and Google Sheets integration.",
+  "main": "reel_selenium.js",
+  "scripts": {
+    "start": "node reel_selenium.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0",
+    "chromedriver": "^138.0.0",
+    "googleapis": "^133.0.0",
+    "dotenv": "^16.4.5",
+    "luxon": "^3.4.4"
+  },
+  "author": "",
+  "license": "MIT"
+} 
