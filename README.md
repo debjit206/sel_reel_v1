@@ -49,8 +49,6 @@ A robust Instagram reel scraper using Selenium WebDriver and Google Sheets integ
 GOOGLE_SHEET_ID=your_google_sheet_id
 GOOGLE_SHEET_NAME=Sheet1
 GOOGLE_CREDENTIALS_FILE=credentials.json
-# Optional: for remote Selenium
-# SELENIUM_REMOTE_URL=http://your-remote-selenium:4444/wd/hub
 ```
 
 ---
